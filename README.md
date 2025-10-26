@@ -1,3 +1,16 @@
+<!-- 
+  Welcome to your GitHub Profile! 
+  
+  To customize this profile:
+  1. Replace 'your.email@example.com' with your actual email address
+  2. Update LinkedIn, Twitter links with your actual profile URLs (or remove if not applicable)
+  3. Adjust the skills badges to match your actual expertise
+  4. Modify the "About Me" and "Currently Working On" sections with your information
+  5. All GitHub stats will automatically update based on your GitHub activity
+  
+  This profile will appear on: https://github.com/HemiAmal
+-->
+
 <h1 align="center">Hi there, I'm Hemi Amal 👋</h1>
 
 <p align="center">
@@ -108,7 +121,7 @@ I'm always interested in collaborating on interesting projects or discussing new
   <a href="https://linkedin.com/in/hemi-amal">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hemi.amal@example.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/hemiamal">
