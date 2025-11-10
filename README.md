@@ -50,10 +50,9 @@ With a blend of **technical depth** and **creative design thinking**, I love tur
 
 ## 🚀 Featured Project  
 
-### 🧘‍♂️ Serene  
-*A mind-relief helping web platform designed to promote mental well-being and stress management.*  
-
-[🔗 View Project](#) <!-- Add your project link here -->
+### Cool Typing Practice
+A typing platform inspired by Monkeytype, enhanced with additional features to provide users with a calm and enjoyable typing-learning experience.
+https://fizz-type-zen.vercel.app/
 
 </div>
 
