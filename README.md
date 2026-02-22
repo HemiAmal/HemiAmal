@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amal Sajeev 👋</h1>  
-<p align="center"><b>Full-Stack Developer | Open Source Contributor | Cybersecurity Practitioner | UI/UX Designer</b></p>  
+<p align="center"><b>Full-Stack Developer | AI Developer | Cybersecurity Researcher | UI/UX Designer</b></p>  
 <p align="center">📍 Calicut, Kerala</p>  
 
 ---
