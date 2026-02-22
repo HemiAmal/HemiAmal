@@ -48,18 +48,6 @@ With a blend of **technical depth** and **creative design thinking**, I love tur
 
 <div style="border: 1px solid rgba(255,215,0,0.3); border-radius: 12px; padding: 25px; background: linear-gradient(145deg, #0b0b12, #121226); color: #f5f5f5;">
 
-## 🚀 Featured Project  
-
-### Cool Typing Practice
-A typing platform inspired by Monkeytype, enhanced with additional features to provide users with a calm and enjoyable typing-learning experience.
-https://fizz-type-zen.vercel.app/
-
-</div>
-
----
-
-<div style="border: 1px solid rgba(255,215,0,0.3); border-radius: 12px; padding: 25px; background: linear-gradient(145deg, #0b0b12, #121226); color: #f5f5f5;">
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
